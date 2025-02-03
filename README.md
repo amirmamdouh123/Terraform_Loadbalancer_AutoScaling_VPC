@@ -1,4 +1,4 @@
-# AWS Infrastructure with Terraform
+# Integrating External LB with Autoscaling & CloudWatch using Terraform
 
 ## Project Overview
 This project provisions an AWS cloud architecture using Terraform. The setup includes an Application Load Balancer (ALB), EC2 instances in an Auto Scaling Group, NAT Gateways for outbound traffic from private subnets, and CloudWatch for monitoring.
