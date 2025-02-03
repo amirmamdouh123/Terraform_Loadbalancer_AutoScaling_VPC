@@ -1,3 +1,6 @@
+![Terraform](https://img.icons8.com/color/144/000000/terraform.png)      ![AWS](https://img.icons8.com/color/144/000000/amazon-web-services.png)
+
+
 # Integrating External LB with Autoscaling & CloudWatch using Terraform
 
 ## Project Overview
